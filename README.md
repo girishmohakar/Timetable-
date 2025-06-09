@@ -80,7 +80,7 @@ Feel free to fork, contribute, or customize the timetable as per your class sche
 
 # 📃 Screenshot 
 
-![screenshot]()
+![screenshot](Screenshot_2025-06-09-12-35-54-923_com.kvassyu.coding2.c.jpg)
 
 
 ---
